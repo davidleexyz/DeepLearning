@@ -17,3 +17,6 @@ https://image.oldpan.me/lesson_05_parallel_tiles.gif
 schedule就是指手工优化经验, 因为halide是函数式的, 没有副作用,
 所以计算顺序无关
 2. tc, mlir 采用DSL 走polyhedral 的路线
+
+#### 资源
+https://ucbrise.github.io/cs294-ai-sys-sp19/#
